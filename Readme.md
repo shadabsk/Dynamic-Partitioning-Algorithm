@@ -1,6 +1,6 @@
 # Project Title
 
-Disk Partitioning algorithm Implementation in C
+Dynamic Partitioning algorithm Implementation in C
 
 ## Getting Started
 
